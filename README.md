@@ -1,2 +1,1 @@
-# smol
-test ssh key
+new smol
